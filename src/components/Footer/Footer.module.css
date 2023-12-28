@@ -1,0 +1,13 @@
+.footer {
+  background: #eb2e45;
+  min-height: 10vh;
+  padding: 1rem;
+  color: white;
+}
+
+.flex_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}

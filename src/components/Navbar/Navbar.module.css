@@ -1,0 +1,37 @@
+.nav {
+  padding: 1rem;
+  background-color: whitesmoke;
+  box-shadow: 1px 0px 10px gray;
+  margin-bottom: 50px;
+}
+
+.flex_wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 10vh;
+  height: auto;
+}
+
+.cyn_logo {
+  width: 80px;
+  height: 80px;
+}
+
+.links_wrapper {
+  display: flex;
+  gap: 1rem;
+}
+
+.links {
+  text-decoration: none;
+  font-size: 19px;
+  color: #222222;
+}
+
+.links:hover {
+  font-weight: 500;
+  text-decoration: underline;
+}
